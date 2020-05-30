@@ -1,0 +1,43 @@
+/* selectores */
+
+/* Seleccionando un elemento HTML por su nombre de etiqueta */
+h1 {
+    color: coral;
+    border-style: dotted;
+  }
+  /* Seleccionando un elemento HTML por su clase */
+  .menu {
+    background-color: aquamarine;
+    text-align: center;
+  }
+  /* Seleccionando un elemento HTML por su id */
+  #principal {
+    background-color: #fdff76;
+  }
+  
+  /* Modificando estilos */
+  
+  .titulo {
+    text-align: center;
+  }
+  
+  .link {
+    display: inline-block;
+    margin: 10px 20px 0 15px;
+    /* margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; */
+  }
+  .elemento {
+    color: red;
+  }
+  .green {
+    color: green;
+    margin: 30px 0;
+    padding: 10px 30px ; 
+
+  }
+  .imagen {
+    width: 100%;
+  }

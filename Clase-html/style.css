@@ -1,0 +1,10 @@
+.nombre {
+    color: rgb(23, 149, 221);
+    font-family: Impact, Charcoal, sans-serif;
+    
+.imagen {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
