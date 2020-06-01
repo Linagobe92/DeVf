@@ -1,4 +1,8 @@
 .nombre {
     color: rgb(23, 149, 221);
     font-family: Impact, Charcoal, sans-serif;
-    
+    text-align: center;
+}
+.carrera{
+  color: #008B8B;
+font-family: monospace;
