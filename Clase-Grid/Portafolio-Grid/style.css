@@ -7,7 +7,7 @@
     height: 100%;
   }
   body {
-    background-color: #d2d2d2;
+    background-color: #0c4e50;
   }
   .father {
     display: grid;
@@ -23,22 +23,19 @@
     height: 100%;
     background-color: white;
   }
-  .one {
-    background-color: bisque;
-    grid-column: 1 / 3; /* Establecemos las columnas que quiero que ocupe mi elemento */
+  .Googles {
+    grid-column: 1 / 2; /* Establecemos las columnas que quiero que ocupe mi elemento */
     grid-row: 1 / 4; /* Establecemos las filas que quiero que ocupe mi elemento */
   }
-  .two {
-    background-color: brown;
-    grid-column: 3 / 5;
+  .Quoko{
+    grid-column: 4 / 5;
     grid-row: 1 / 3;
   }
-  .three {
-    background-color: coral;
+  .Big Tool {
     grid-column: 2 / 4;
     grid-row: 2 / 3;
   }
-  .four {
+  .Tu Emprendiendo {
     grid-column: 1 / 5;
     grid-row: 4 / 5;
   }
